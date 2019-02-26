@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.b3ef6181.chunk.css",
-  "main.js": "/static/js/main.4ddb0fb3.chunk.js",
-  "main.js.map": "/static/js/main.4ddb0fb3.chunk.js.map",
+  "main.js": "/static/js/main.c4cdea11.chunk.js",
+  "main.js.map": "/static/js/main.c4cdea11.chunk.js.map",
   "static/js/1.423acc93.chunk.js": "/static/js/1.423acc93.chunk.js",
   "static/js/1.423acc93.chunk.js.map": "/static/js/1.423acc93.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,6 +10,6 @@
   "static/media/Oxararfoss-full.jpeg": "/static/media/Oxararfoss-full.3acb923d.jpeg",
   "static/css/main.b3ef6181.chunk.css.map": "/static/css/main.b3ef6181.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.2fb1df3c60ca6b225c466c64e7360103.js": "/precache-manifest.2fb1df3c60ca6b225c466c64e7360103.js",
+  "precache-manifest.371b8481d0ad6ef9b620606b74965bae.js": "/precache-manifest.371b8481d0ad6ef9b620606b74965bae.js",
   "service-worker.js": "/service-worker.js"
 }
