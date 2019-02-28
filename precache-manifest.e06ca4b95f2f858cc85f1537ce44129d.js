@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dc3f69a9676e8289db9f",
+    "revision": "6d37035d2fa86ca90c97",
     "url": "/static/css/main.e75371c5.chunk.css"
   },
   {
-    "revision": "dc3f69a9676e8289db9f",
-    "url": "/static/js/main.dc3f69a9.chunk.js"
+    "revision": "6d37035d2fa86ca90c97",
+    "url": "/static/js/main.6d37035d.chunk.js"
   },
   {
     "revision": "72ae0f7a7f2644852b38",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/Oxararfoss-full.3acb923d.jpeg"
   },
   {
-    "revision": "33b48ba615c6ec20a82432151dd58ab5",
+    "revision": "43564ba3919a8203d053da4f321e8dda",
     "url": "/index.html"
   }
 ];
